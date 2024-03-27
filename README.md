@@ -47,7 +47,14 @@ Challenge: Startups typically operate with limited resources. Managing the budge
 User Experience (UX):
 Challenge: Balancing functionality with a user-friendly interface is an ongoing struggle. A poor UX can deter users from adopting your product..
 Communication and Alignment:
-Challenge: Ensuring that everyone involved (founders, developers, designers) shares a common vision and understands the MVP’s purpose.Maintain clear communication channels. Regularly update team members, align on goals, and revisit th
+Challenge: Ensuring that everyone involved (founders, developers, designers) shares a common vision and understands the MVP’s purpose.Maintain clear communication channels. Regularly update team members, align on goals, and revisit the.
+  4. Share screenshots
+In a section named “Screenshots” in your status document, include at least 2 screenshots of your app.
+
+
+![screen shot2](https://github.com/RahwaLegesse/MVP/assets/123552892/eeb70d81-289a-45e2-adb5-5a85aaf07dc2)
+<img width="283" alt="screenshot of our project" src="https://github.com/RahwaLegesse/MVP/assets/123552892/406006d3-f9c6-489b-940c-84b674354b6e">
+
 
 
 
