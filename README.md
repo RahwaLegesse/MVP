@@ -1,7 +1,7 @@
- 2. Progress
+# 2. Progress
 On a scale of 1 to 10, how would you rate the progress you’ve made this week?
  On this week we give our scale 9.5
-Provide an explanation of your progress assessment this week?
+**Provide an explanation of your progress assessment this week?**
 We have been working on our project on how we could successfully finish our project.
  We were planning on which programming language (front and back end) we could use.
 after we choose the project we make a clear minimum viable specification for our portfolio project.
